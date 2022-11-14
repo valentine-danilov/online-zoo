@@ -146,6 +146,9 @@ h1 {
 
 }
 
+.backstage {
+	min-width: 100%;
+}
 
 .backstage_wrapper {
 	width: 1160px;
@@ -155,8 +158,6 @@ h1 {
 	justify-content: space-between;
 	margin: 0 auto;
 	min-width: 100%;
-
-
 }
 
 .cap_text {
